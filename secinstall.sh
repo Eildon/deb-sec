@@ -8,7 +8,7 @@ curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/t
 rm msfinstall
 
 git clone https://github.com/SpiderLabs/Responder.git $dir/Responder
-git clone https://github.com/EmpireProject/Empire.git $dir/Empiere
+git clone https://github.com/EmpireProject/Empire.git $dir/Empire
 git clone https://github.com/byt3bl33d3r/DeathStar.git $dir/Deathstar
 git clone https://github.com/superkojiman/onetwopunch.git $dir/onetwopunch
 git clone https://github.com/SecureAuthCorp/impacket.git $dir/impacket
